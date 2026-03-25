@@ -1,0 +1,9 @@
+# 默认忽略项目中的所有内容
+/*
+
+# 保留当前项目文件
+!/.gitignore
+!/CAS_ADAPTATION_GUIDE.md
+!/README.md
+!/app.py
+!/kingo_prober.py
