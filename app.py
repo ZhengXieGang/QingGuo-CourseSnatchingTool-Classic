@@ -23,7 +23,7 @@ PRESET_ACCOUNTS = [
 # ==========================================
 
 # 学校基本信息 (提取自传统版)
-SCHOOL_CODE = "13506"
+SCHOOL_CODE = "11451"
 SCHOOL_HOST = "https://jw.example.edu.cn"
 JWWEB_BASE = "https://jw.example.edu.cn/jwweb"
 
